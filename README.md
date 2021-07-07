@@ -4,7 +4,7 @@ HPTab displays a beautiful Harry Potter inspired image from [Unsplash](https://u
 
 Here's what the completed project looks like:
 
-![demo](https://github.com/Freshman-tech/freshtab/blob/master/demo.png)
+![demo](https://github.com/keishabandz/HPTab/blob/main/demo.png)
 
 ## Setup
 
