@@ -10,7 +10,7 @@ Here's what the completed project looks like:
 
 - Clone this repository to your filesystem:
 ```bash
-git clone https://github.com/keishabandz/HPTab.git
+git clone https://github.com/keishabandz/HPTab
 ```
 - Create a free [Unsplash Developer account](https://unsplash.com/documentation#creating-a-developer-account) and [register](https://unsplash.com/documentation#registering-your-application) a new application.
 - `cd` into the project folder. Open `js/background.js` and `js/popup.js` in your text editor.
